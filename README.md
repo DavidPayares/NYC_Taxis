@@ -12,6 +12,6 @@ Here are some visualizations of the exploratory analysis. The main focus of the 
 
 ## Analysis
 
-* [Data exploration and cleaning](https://github.com/DavidPayares/NYC_Taxis/blob/main/notebooks/Data%20Exploration%20and%20Cleaning.ipynb): basic visualizations and datacleaning. Initial screening of variables and possible relations between them.
-* [Data summary](https://github.com/DavidPayares/NYC_Taxis/blob/main/notebooks/Data%20Summary.ipynb): most important insights into the data. Temporal and spatial visualizations. Further cleaning and generation of new candidate regressors.
-* [Model building](https://github.com/DavidPayares/NYC_Taxis/blob/main/notebooks/Model%20Building.ipynb): modeling of the tip amount. Use of two models, multiple linear regression and random forest.
+* [Data exploration and cleaning](https://github.com/DavidPayares/NYC_Taxis/blob/main/notebooks/Data_Exploration_and_Cleaning.ipynb): basic visualizations and datacleaning. Initial screening of variables and possible relations between them. Visualize in [nbviewer](https://nbviewer.jupyter.org/github/DavidPayares/NYC_Taxis/blob/main/notebooks/Data_Exploration_and_Cleaning.ipynb)
+* [Data summary](https://github.com/DavidPayares/NYC_Taxis/blob/main/notebooks/Data_Summary.ipynb): most important insights into the data. Temporal and spatial visualizations. Further cleaning and generation of new candidate regressors.  Visualize in [nbviewer](https://nbviewer.jupyter.org/github/DavidPayares/NYC_Taxis/blob/main/notebooks/Data_Summary.ipynb)
+* [Model building](https://github.com/DavidPayares/NYC_Taxis/blob/main/notebooks/Model_Building.ipynb): modeling of the tip amount. Use of two models, multiple linear regression and random forest. Visualize in [nbviewer](https://nbviewer.jupyter.org/github/DavidPayares/NYC_Taxis/blob/main/notebooks/Model_Building.ipynb)
