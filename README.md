@@ -2,6 +2,10 @@
  Data analysis and modeling of tips of NYC taxis.
  
  ## Tip Amount
+
+The tips in the NYC  yellow taxis were predicted with an accuracy of 99.7% using OLS regression and 99,9% using random forest. Both methods showed good performance, and minor problems were faced when modeling the data.
+
+Here are some visualizations of the exploratory analysis. The main focus of the data exploration were the temporal and spatial trends in the data.
  
  <img src="img/maps.png" align="center" width="600" />
  <img src="img/clock.png" align="center" width="600" />
